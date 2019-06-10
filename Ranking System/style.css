@@ -8,21 +8,19 @@
   clear: both;
 }
 
-.logo p{
+.logo{
   width: 2rem;
   height: 2rem;
   width: 10rem;
   height: 3rem;
-  color: tomato;
-  font-size: 2rem;
-  margin-top: 1.5rem;
+  margin-top: 2rem;
   margin-left: 10rem;
 }
 .nav-button {
   float: right;
   height: 3rem;
   margin-top: 1.5rem;
-  margin-right: 5rem;
+  margin-right: 10rem;
   border-radius: 10px;
 }
 .main-content {
